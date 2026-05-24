@@ -38,13 +38,6 @@
 
 ---
 
-## 🔗 API Guideline
-For detailed documentation on endpoints, request structures, and authentication, please refer to our dedicated guide:
-[**View API Documentation**](./API_GUIDELINE.md)
-
-
-
-
 # Junin Store — API Reference <div id="api-guideline">
 
 > **Base URL:** `http://localhost:3000` (set via `NEXT_PUBLIC_BASE_URL`)  
